@@ -12,7 +12,7 @@ export default function Navigation()
 
     return(
         <>
-        <Navbar expand="md" sticky='top' className="bg-body-tertiary mb-4">
+        <Navbar expand="md" sticky='top' className="bg-body-tertiary mb-4 text-end">
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -33,3 +33,7 @@ export default function Navigation()
         </>
     )
 }
+
+                                /*
+Add projects ti make this feel complete
+                                */
