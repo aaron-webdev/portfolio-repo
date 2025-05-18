@@ -21,7 +21,7 @@ export default function Navigation()
                     <Nav.Link target='_blank' href="https://www.linkedin.com/in/aaron-clure/">LinkedIn</Nav.Link>
                     <Nav.Link href="#">Back to top</Nav.Link>
                     <NavDropdown title="Jump to project" id="basic-nav-dropdown">
-                        <NavDropdown.Item href="#">XNK website -Artist</NavDropdown.Item>
+                        <NavDropdown.Item href="https://aaron-webdev.github.io/xnk_repo/">XNK website -Artist</NavDropdown.Item>
                         <NavDropdown.Item href="#">Bake That Dough website -Retail</NavDropdown.Item>
                         <NavDropdown.Item href="#">Exposing Beauty -Photographer</NavDropdown.Item>
                         <NavDropdown.Item href="#">Ultimate Edge IP Law  -Service</NavDropdown.Item>

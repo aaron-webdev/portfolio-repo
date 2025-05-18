@@ -1,5 +1,6 @@
-import Navigation from "./componets/Navigation";
-import PortfolioHeading from "./componets/PortfolioHeading";
+import Navigation from "./componets/Navigation.jsx";
+import PortfolioHeading from "./componets/PortfolioHeading.jsx";
+import XnkCard from "./componets/XnkCard.jsx";
 
 export default function Homepage() {
 
@@ -10,6 +11,7 @@ export default function Homepage() {
     <>
     <Navigation/>
     <PortfolioHeading/>
+    <XnkCard/>
     </>
   )
 }
