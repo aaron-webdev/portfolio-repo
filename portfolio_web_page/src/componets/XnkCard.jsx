@@ -20,7 +20,7 @@ export default function XnkCard()
                 <Card.Text>
                 Website designed to showcase artist's musical releases and personality
                 </Card.Text>
-                <Button variant='danger' href="https://aaron-webdev.github.io/xnk_repo/">View Website</Button>
+                <Button variant='danger' target='_blank' href="https://aaron-webdev.github.io/xnk_repo/">View Website</Button>
             </Card.Body>
             </Card>
             </Container>
